@@ -12,16 +12,6 @@ Udaan is a student-focused web platform built using React.js, designed to help s
 - Fully responsive across devices (desktop, tablet, mobile).
 - Built using Tailwind CSS for modern UI and consistent styling.
 
-## External Integration (Future Scope)
-- Google Sheets or backend APIs to fetch and manage opportunity data.
-- Admin panel for posting/updating listings (planned).
-
-## Technical Features
-- Frontend: React.js (Vite)
-- Styling: Tailwind CSS
-- Deployment: Vercel
-- Data Source: JSON-based dynamic rendering (can connect to Google Apps Script, Sheets, or APIs)
-
 📁 File Structure
 ```
 
@@ -35,8 +25,6 @@ udaan/
 ├── tailwind.config.js
 └── vite.config.js
 ```
-## Live Demo
-🌐 udaan-beige.vercel.app
 
 ## Future Enhancements
 - Admin dashboard for posting/updating opportunities
